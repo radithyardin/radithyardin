@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Word! I'm Radithya Ardin S 👋
 
 <!--
 **radithyardin/radithyardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
