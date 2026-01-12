@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 #### Contact
 ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![image](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Music
+#### Music
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lcudwxhrt5ckbi53xo7hbganxm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lcudwxhrt5ckbi53xo7hbganxm&redirect=true)
