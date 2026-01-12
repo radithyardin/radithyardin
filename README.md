@@ -1,4 +1,6 @@
-## Hello Word! I'm Radithya Ardin S 👋
+## Hello Word!!!👋
+
+![din](img/github-header-banner.png)
 
 <!--
 **radithyardin/radithyardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
