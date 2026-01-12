@@ -1,6 +1,6 @@
 ## Hello Word!!!👋
 
-![din](img/github-header-banner.png)
+![header](img/github-header-banner.png)
 
 <!--
 **radithyardin/radithyardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 -- Saya adalah Front-End Developer dan Web Designer yang berfokus pada pembuatan tampilan web yang modern, responsif, dan mudah digunakan. Saya terbiasa menggabungkan aspek desain UI/UX dengan implementasi teknis di sisi front-end. Selain itu, saya juga memiliki pemahaman dasar tentang Cyber Security, khususnya keamanan aplikasi web, untuk memastikan website yang saya bangun tidak hanya menarik secara visual tetapi juga aman --
 
 ![Hello](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGxnMTcxMXBvcnVtMmdyeDRubTQ5OGYzNG1sMTc3NjNsaGY3Y212eCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Cmr1OMJ2FN0B2/giphy.gif)
